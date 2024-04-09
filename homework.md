@@ -10,3 +10,9 @@ textpage1
 **page2**
 
 textpage2
+
+## page3 
+add picture on this page
+
+![pic](image.jpg)
+
