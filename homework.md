@@ -21,3 +21,8 @@ add picture on this page
 text on chapter
 
 smth else
+
+## **chapter 2**
+about rules
+
+smth text w rules
