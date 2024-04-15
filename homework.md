@@ -52,3 +52,4 @@ text
 texttexttext
 
 cat and dog partygit 
+новый текст в файле
